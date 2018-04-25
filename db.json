@@ -2,7 +2,6 @@
   "posts": [
      {
     "userId": 1,
-    "id": 1,
     "title": "TestDatenbank1",
     "body": "Inhalt der Git-Datenbank"
   },
